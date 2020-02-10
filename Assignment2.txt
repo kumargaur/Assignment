@@ -1,0 +1,4 @@
+﻿1. Please find a datafile named data.csv in the enclosed folder. The csv has header as id,label,feature1,feature2,feature3.........,feature 209
+What can you infer the data data features.Please provide supporting graphs and plots 
+
+
